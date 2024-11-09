@@ -52,5 +52,5 @@ This code was inspired by
 - Microsoft Makecode 'Activity: Projectile Sprites' website https://arcade.makecode.com/courses/csintro1/loops/projectiles
 - Youtube channel: HBalloon  video: Music and Sounds-Microsoft MakeCode Arcade Ep. 5 https://www.youtube.com/watch?v=Jt8NJYcXCUo
 - How to Make a Platformer Game [Part 1: Intro, sprites, movement & tile map] - MakeCode arcade main YouTube channel https://www.youtube.com/watch?v=9bSX9Q5aP6E&list=PLMMBk9hE-SepfPK6z19t6aAfwbOQNY6K7
-- 'How to make a 2D game' playlist Youtube channel: Microsoft MakeCode Arcade
+- 'How to make a 2D game' playlist Youtube channel: Microsoft MakeCode Arcade https://www.youtube.com/playlist?list=PLMMBk9hE-SepfPK6z19t6aAfwbOQNY6K7
 
