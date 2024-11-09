@@ -4,8 +4,9 @@ MakeCode Arcade link: https://makecode.com/_fyR7LRC3k1JW
 A simple video game for kids
 
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
+* [General information](#general-information)
+* [Technologies used](#technologies used)
+* [Features] (#Features)
 * [Setup](#setup)
   
 ## General information
