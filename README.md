@@ -1,13 +1,14 @@
 # Runningmania
 MakeCode Arcade link: https://makecode.com/_fyR7LRC3k1JW
 
-A simple video game for kids
-
 ## Table of contents
 * [General information](#general-information)
-* [Technologies used](#technologies used)
-* [Features] (#Features)
+* [Technologies used](#technologies-used)
+* [Features](#Features)
 * [Setup](#setup)
+* [Usage](#usuage)
+* [Improvements](#Room-for-improvemnets)
+* [Acknowledgments](Acknowledgments)
   
 ## General information
 
@@ -37,8 +38,6 @@ Use the 'A' button to start playing the game.
 Use arrow keys to make the character move around
 Explore the game world
 Try to find the exit and move on to the next level
-
-## Project status 
 
 ## Room for improvement 
 
