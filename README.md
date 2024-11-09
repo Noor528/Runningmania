@@ -5,9 +5,9 @@ MakeCode Arcade link: https://makecode.com/_fyR7LRC3k1JW
 * [General information](#general-information)
 * [Technologies used](#technologies-used)
 * [Features](#Features)
-* [Setup](#setup)
-* [Usage](#usuage)
-* [Improvements](#Room-for-improvemnets)
+* [Setup](#Setup)
+* [Usage](#Usuage)
+* [Improvements](#Room-for-improvemnet)
 * [Acknowledgments](Acknowledgments)
   
 ## General information
@@ -28,16 +28,16 @@ MakeCode Arcade
 
 ## Set up
 
-Open MakeCode Arcade.
-Click on the link provided 
-Will be directed to the game and be able to access the code and play the game
+1. Open MakeCode Arcade.
+2. Click on the link provided 
+3. Will be directed to the game and be able to access the code and play the game
 
 ## Usage 
 
-Use the 'A' button to start playing the game.
-Use arrow keys to make the character move around
-Explore the game world
-Try to find the exit and move on to the next level
+1. Use the 'A' button to start playing the game.
+2. Use arrow keys to make the character move around
+3. Explore the game world
+4. Try to find the exit and move on to the next level
 
 ## Room for improvement 
 
